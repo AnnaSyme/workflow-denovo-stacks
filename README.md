@@ -50,3 +50,5 @@ populations:
 * Snp calls, in VCF format
 * Haplotypes, in VCF format
 * Summary statistics
+
+![denovo](wf-denovo.png)
